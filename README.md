@@ -5,4 +5,3 @@ Developed by
 -NodeJS
 -Express.js
 -MongoDB
-Check it out here => https://personal-blogapp.herokuapp.com/
